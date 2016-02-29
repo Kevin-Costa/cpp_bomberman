@@ -1,0 +1,28 @@
+local test;
+test = 10;
+while test
+{
+	print (test);
+	print("Connards");
+	test = test - 1;
+}
+
+local fdp;
+      fdp = " Bandes de FDP!!!"
+;
+local enfoires;
+enfoires = "Ca marche!!!!!";
+print (enfoires..fdp);
+
+if (false)
+{
+   print("Ca plante");
+}
+else if (5 == 3 ^2)
+{
+	print ("Ca marche toujours pas");
+}
+else
+{
+	print ("Allez vous faire foutre");
+}
